@@ -1,6 +1,6 @@
 # Heroku Hosting Tutorial
 
-This tutorial assumes your database is hosted on elephantSQL. If it is not make the necessary changes to the tutorial.  
+This tutorial assumes your database is hosted on elephantSQL. If it is not make the necessary changes when adding your connectiongString to your config vars on heroku.  
 
 
 ## Preparing your React app for hosting
